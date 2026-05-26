@@ -1,0 +1,14 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[user]
+	name = tanpr
+	email = tanpr@LAPTOP-CMD66NCE
+[remote "origin"]
+	url = https://github.com/lrcpadua-hub/MO-IT103-Group-22
+	fetch = +refs/heads/*:refs/remotes/origin/*
